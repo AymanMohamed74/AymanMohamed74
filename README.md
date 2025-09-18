@@ -92,22 +92,9 @@ Advanced Django & DRF • Cloud Deployment (AWS, Docker, CI/CD) • Microservice
 
 ---
 
-## 📌 Featured Projects  
-<p align="center">
-  <a href="https://github.com/AymanMohamed74/Banking-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AymanMohamed74&repo=Banking-System&theme=dark" />
-  </a>
-  <a href="https://github.com/AymanMohamed74/Some-API">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AymanMohamed74&repo=Some-API&theme=dark" />
-  </a>
-</p>
-
----
-
 ## 📈 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AymanMohamed74&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymanMohamed74&layout=compact&theme=dark" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AymanMohamed74&theme=dark" />
 </p>
 
