@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hi, I'm Ayman</h1>
-<h3 align="center">✨ Front-End Developer | UI/UX Enthusiast</h3>
+<h3 align="center">💻 Front-End Developer</h3>
 
 <p align="center">
 🌍 Based in <b>Egypt</b><br>
 🎓 Graduate of <b>Faculty of Computers and Informatics, Zagazig University</b><br>
-⚡ Passionate about <b>Creating Interactive & User-Friendly Interfaces</b><br>
+⚡ Passionate about <b>Building High-Performance Web Applications</b><br>
 </p>
 
 ---
@@ -23,16 +23,16 @@
 
 ## 🚀 About Me  
 <p align="center">
-I'm a Front-End Developer dedicated to crafting seamless digital experiences.  
-I specialize in building responsive, high-performance web applications with a focus on clean code and modern design patterns. 
-I love turning complex problems into simple, beautiful, and intuitive designs.
+I'm a Front-End Developer focused on creating functional, responsive, and scalable web interfaces.  
+I enjoy bridge the gap between design and implementation using modern web technologies  
+and writing clean, maintainable code.
 </p>
 
 ---
 
 ## 🛠️ My Tech Stack  
 
-### 🔹 Core Technologies (HTML/CSS/JS)
+### 🔹 Core Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
@@ -49,13 +49,13 @@ I love turning complex problems into simple, beautiful, and intuitive designs.
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
 </p>
 
-### 🔹 Tools & Version Control
+### 🔹 Tools & Deployment
 <p align="center">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
 </p>
 
 ---
@@ -71,7 +71,7 @@ I love turning complex problems into simple, beautiful, and intuitive designs.
 
 ## 📚 Currently Learning
 <p align="center">
-Advanced Next.js Patterns • Framer Motion for Animations • Three.js (3D Web) • Web Performance Optimization
+Advanced Next.js • Unit Testing (Jest/Cypress) • Web Performance Optimization • PWA
 </p>
 
 <p align="center">
