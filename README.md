@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Ayman</h1>
+<h1 align="center">👋 Hi, I'm Ayman Mohamed </h1>
 <h3 align="center">💻 Front-End Developer</h3>
 
 <p align="center">
@@ -44,9 +44,6 @@ and writing clean, maintainable code.
 <p align="center">
   <img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
 </p>
 
 ### 🔹 Tools & Deployment
@@ -54,18 +51,7 @@ and writing clean, maintainable code.
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-</p>
-
----
-
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AymanMohamed74&show_icons=true&theme=radical" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AymanMohamed74&theme=radical" />
-</p>
+</p>    
 
 ---
 
